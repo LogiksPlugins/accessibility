@@ -8,10 +8,10 @@
     "description": "Accessibilty Module For UX",
     "keywords": "logiks,modules,accessibility",
     "license": "MIT",
-    "homepage": "",
     "marketid": "",
-    "bugs": "",
-    "private": true,
+    "homepage": "https://github.com/LogiksPlugins/accessibility",
+    "bugs": "https://github.com/LogiksPlugins/accessibility/issues",
+    "private": false,
     "permissions": "",
     "dependencies": {
         "core": "*"
