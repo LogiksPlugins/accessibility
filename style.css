@@ -1,0 +1,10 @@
+#accessibilitybuttons {
+	margin-top:1px;
+	margin-right:25px;
+	float:left;
+}
+#accessibilitybuttons button {
+	height:30px;
+	width:40px;
+	font-size:12px;
+}

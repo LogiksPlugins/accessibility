@@ -1,4 +1,4 @@
 accessibility
 =============
 
-A module for Logiks Framework.	
+Accessibilty Module For UX.

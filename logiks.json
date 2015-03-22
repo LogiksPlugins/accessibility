@@ -1,0 +1,30 @@
+{
+    "name": "accessibility",
+    "version": "1.0.0",
+    "package":"accessibility",
+    "type": "module",
+    "app": "*",
+    "privilege": "*",
+    "description": "Accessibilty Module For UX",
+    "keywords": "logiks,modules,accessibility",
+    "license": "MIT",
+    "homepage": "",
+    "marketid": "",
+    "bugs": "",
+    "private": true,
+    "permissions": "",
+    "dependencies": {
+        "core": "*"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/LogiksPlugins/accessibility.git"
+    },
+    "authors": [
+        {
+            "name": "OpenLogiks Team",
+            "email": "admin@openlogiks.org",
+            "authorid":"olgksadmin"
+        }
+    ]
+}
